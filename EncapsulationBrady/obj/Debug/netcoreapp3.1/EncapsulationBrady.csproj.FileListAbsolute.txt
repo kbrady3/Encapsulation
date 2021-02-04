@@ -1,0 +1,11 @@
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\bin\Debug\netcoreapp3.1\EncapsulationBrady.exe
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\bin\Debug\netcoreapp3.1\EncapsulationBrady.deps.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\bin\Debug\netcoreapp3.1\EncapsulationBrady.runtimeconfig.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\bin\Debug\netcoreapp3.1\EncapsulationBrady.runtimeconfig.dev.json
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\bin\Debug\netcoreapp3.1\EncapsulationBrady.dll
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\bin\Debug\netcoreapp3.1\EncapsulationBrady.pdb
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\obj\Debug\netcoreapp3.1\EncapsulationBrady.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\obj\Debug\netcoreapp3.1\EncapsulationBrady.AssemblyInfoInputs.cache
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\obj\Debug\netcoreapp3.1\EncapsulationBrady.AssemblyInfo.cs
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\obj\Debug\netcoreapp3.1\EncapsulationBrady.dll
+C:\Users\Kabrina\Documents\SPRING 2021\Data Structures\EncapsulationBrady\EncapsulationBrady\obj\Debug\netcoreapp3.1\EncapsulationBrady.pdb
